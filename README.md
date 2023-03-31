@@ -16,8 +16,8 @@
 5. my repo: pull request를 보낸다
 
 git clone [url]
-git add *
+git add -p
+  //git add *
 git commit -m "asdf"
 git push origin main 
-
 pull request 
