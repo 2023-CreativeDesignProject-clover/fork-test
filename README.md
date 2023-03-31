@@ -15,3 +15,9 @@
 4. local: 수정사항을 반영한다
 5. my repo: pull request를 보낸다
 
+git clone [url]
+git add *
+git commit -m "asdf"
+git push origin main 
+
+pull request 
